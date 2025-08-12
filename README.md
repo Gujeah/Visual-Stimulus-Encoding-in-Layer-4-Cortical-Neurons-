@@ -1,4 +1,4 @@
-# Visual-Stimulus-Encoding-in-Layer-4-Cortical-Neurons
+# Visual-Stimulus-Encoding-in-Layer-4-Cortical-Neurons using Allen Institute Dataset
 
 # Biological Context
 
@@ -23,3 +23,27 @@ Using the Allen Brain Observatory's large-scale Neuropixels recordings from mous
 - Static gratings (orientationand spatial frequency variations)
 
 - Natural scenes (Frames)
+
+# Key Methodological Innovations
+
+Our analytical pipeline combined established neurophysiological approaches with modern computational techniques:
+
+- Dimensionality reduction (PCA) to identify dominant response modes
+
+- Tuning curve characterization for both stimulus classes
+
+- Population coding analysis through correlation matrices
+
+- Cross-stimulus comparison using Spearman's rank correlation
+
+# Repository Contents
+
+This repository contains complete workflows for:
+
+- Data acquisition from the Allen SDK
+
+- Response characterization
+
+- Population-level analysis
+
+- Visualization generation
