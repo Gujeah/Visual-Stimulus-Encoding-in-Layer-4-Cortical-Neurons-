@@ -1,5 +1,7 @@
 # Visual-Stimulus-Encoding-in-Layer-4-Cortical-Neurons using Allen Institute Dataset
 
+![Layer 4 Neurons](layer4.jpeg)
+
 # Biological Context
 
 The primary visual cortex (V1) serves as the first cortical stage of visual processing, where neurons transform retinal input into feature representations. Layer 4 (L4) occupies a privileged position in this hierarchy, receiving direct thalamocortical projections from the lateral geniculate nucleus and serving as the main entry point for visual information to the cortex.
