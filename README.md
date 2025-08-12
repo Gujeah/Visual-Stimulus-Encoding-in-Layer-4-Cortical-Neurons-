@@ -1,6 +1,8 @@
 # Visual-Stimulus-Encoding-in-Layer-4-Cortical-Neurons using Allen Institute Dataset
 
-![Layer 4 Neurons](layer4.jpeg)
+<p align="center">
+  <img src="images/layer4.jpeg" alt="Layer 4 Cortical Circuitry" style="width:100%; max-width:1200px;">
+</p>
 
 # Biological Context
 
