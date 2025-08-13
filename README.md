@@ -43,9 +43,6 @@ Our analytical pipeline combined established neurophysiological approaches with 
 This repository contains complete workflows for:
 
 - Data acquisition from the Allen SDK
-
 - Response characterization
-
 - Population-level analysis
-
 - Visualization generation
